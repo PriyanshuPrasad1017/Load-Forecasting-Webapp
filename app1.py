@@ -10,7 +10,7 @@ import plotly.express as px
 st.set_page_config(page_title='Load Forecasting App', layout='wide')
 
 st.write("""
-# The Load Forecasting App
+# EnergyInsight - The Load Forecasting App
 """)
 
 
